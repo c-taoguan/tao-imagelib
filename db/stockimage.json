@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "title":  "Winning Alert",
+            "tags":   ["Winning", "Alert"],
+            "source": "DALL-E",
+            "image":  "https://photos.google.com/share/AF1QipMoj8Yhuzm3b-b7XguhmS0hSUA8zd9lkQRjW8rzEtz88Wxs9ETgju0Mp9VtU2giBA/photo/AF1QipMk36LYYh0wPF8kFqFQWCjjoOGv7FAMnbce183g?key=ejREcHZRcGgtN0l4V2NrNmM3eWU0LWtPaWtCQk93"
+        },
+        {
+            "title":  "Happy Birthday",
+            "tags":   ["Birthday"],
+            "source": "Tao",
+            "image":  "https://photos.google.com/share/AF1QipMoj8Yhuzm3b-b7XguhmS0hSUA8zd9lkQRjW8rzEtz88Wxs9ETgju0Mp9VtU2giBA/photo/AF1QipMUUqAPY3sw3HiFuRDuoXaREDUmeMp3anxhLmF6?key=ejREcHZRcGgtN0l4V2NrNmM3eWU0LWtPaWtCQk93"
+        },
+        {
+            "title":  "DevRev Launch Party",
+            "tags":   ["Party", "launch", "DevRev"],
+            "source": "Tao",
+            "image":  "https://photos.google.com/share/AF1QipMoj8Yhuzm3b-b7XguhmS0hSUA8zd9lkQRjW8rzEtz88Wxs9ETgju0Mp9VtU2giBA/photo/AF1QipNMCsIepAFFgcwsQAGgiHz0Pc7Yp9ZujuOL5ko5?key=ejREcHZRcGgtN0l4V2NrNmM3eWU0LWtPaWtCQk93"
+        },
+        {
+            "title":  "Dheeraj Portrait",
+            "tags":   ["portrait", "Dheeraj", "Pandney"],
+            "source": "Tao",
+            "image":  "https://photos.google.com/share/AF1QipMoj8Yhuzm3b-b7XguhmS0hSUA8zd9lkQRjW8rzEtz88Wxs9ETgju0Mp9VtU2giBA/photo/AF1QipOHcjGZ4MUduXIMgFANksuVxYPYxSvifdoenZkg?key=ejREcHZRcGgtN0l4V2NrNmM3eWU0LWtPaWtCQk93"
+        },
+        {
+            "title":  "Manoj Portrait",
+            "tags":   ["portrait", "manoj", "Agarwal"],
+            "source": "Tao",
+            "image":  "https://photos.google.com/share/AF1QipMoj8Yhuzm3b-b7XguhmS0hSUA8zd9lkQRjW8rzEtz88Wxs9ETgju0Mp9VtU2giBA/photo/AF1QipN6rq5Osu6k_lSb1vqqgemF3uK8r5uAZqwJpBkz?key=ejREcHZRcGgtN0l4V2NrNmM3eWU0LWtPaWtCQk93"
+        },
+        {
+            "title":  "Teamwork",
+            "tags":   ["teamwork", "collaboration"],
+            "source": "stock",
+            "image":  "https://photos.google.com/share/AF1QipMoj8Yhuzm3b-b7XguhmS0hSUA8zd9lkQRjW8rzEtz88Wxs9ETgju0Mp9VtU2giBA/photo/AF1QipNR9dfRw55DvwXDnsjucsnG5TOt2gjCjfklH4q7?key=ejREcHZRcGgtN0l4V2NrNmM3eWU0LWtPaWtCQk93"
+        },
+        {
+            "title":  "Github logo",
+            "tags":   ["github", "logo"],
+            "source": "stock",
+            "image":  "https://photos.google.com/share/AF1QipMoj8Yhuzm3b-b7XguhmS0hSUA8zd9lkQRjW8rzEtz88Wxs9ETgju0Mp9VtU2giBA/photo/AF1QipNyj9QGTTcoGYdf8yXCAkvjNe_NpvBQ8Kvz21n7?key=ejREcHZRcGgtN0l4V2NrNmM3eWU0LWtPaWtCQk93"
+        },
+        {
+            "title":  "PLUG",
+            "tags":   ["DevCRM", "DevRev", "PluG"],
+            "source": "stock",
+            "image":  "https://photos.google.com/share/AF1QipMoj8Yhuzm3b-b7XguhmS0hSUA8zd9lkQRjW8rzEtz88Wxs9ETgju0Mp9VtU2giBA/photo/AF1QipObrHNT2vByixhcIC0Jyjbb5JpVI7ybviJjMjcK?key=ejREcHZRcGgtN0l4V2NrNmM3eWU0LWtPaWtCQk93"
+        },
+        {
+            "title":  "DevRev News",
+            "tags":   ["DevRev", "News"],
+            "source": "stock",
+            "image":  "https://photos.google.com/share/AF1QipMoj8Yhuzm3b-b7XguhmS0hSUA8zd9lkQRjW8rzEtz88Wxs9ETgju0Mp9VtU2giBA/photo/AF1QipNuCGWjwFs3Km73Em-8X7BFR2ECQseonYtnakef?key=ejREcHZRcGgtN0l4V2NrNmM3eWU0LWtPaWtCQk93"
+        },
+        {
+            "title":  "System Outage",
+            "tags":   ["Outage"],
+            "source": "stock",
+            "image":  "https://photos.google.com/share/AF1QipMoj8Yhuzm3b-b7XguhmS0hSUA8zd9lkQRjW8rzEtz88Wxs9ETgju0Mp9VtU2giBA/photo/AF1QipOFxB_Eqyniuyl3FmqgJpwVCYQkuN6Pl18o3i4P?key=ejREcHZRcGgtN0l4V2NrNmM3eWU0LWtPaWtCQk93"
+        },
+        {
+            "title":  "Software Programming and Design",
+            "tags":   ["software", "design", "programming"],
+            "source": "stock",
+            "image":  "https://photos.google.com/share/AF1QipMoj8Yhuzm3b-b7XguhmS0hSUA8zd9lkQRjW8rzEtz88Wxs9ETgju0Mp9VtU2giBA/photo/AF1QipOtTCExTr5YdPLvZHLsR6Md62-1eA-AeWYAcL6M?key=ejREcHZRcGgtN0l4V2NrNmM3eWU0LWtPaWtCQk93"
+        }
+
+    ]
+}
