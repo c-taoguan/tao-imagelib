@@ -21,7 +21,7 @@ var stockImageFile embed.FS
 
 const stockImageDBJsonFileName string = "stockimage.json"
 
-const defaultNewsImageUrl string = "default_image_url"
+const defaultNewsImageUrl string = "https://photos.google.com/share/AF1QipMoj8Yhuzm3b-b7XguhmS0hSUA8zd9lkQRjW8rzEtz88Wxs9ETgju0Mp9VtU2giBA/photo/AF1QipNuCGWjwFs3Km73Em-8X7BFR2ECQseonYtnakef?key=ejREcHZRcGgtN0l4V2NrNmM3eWU0LWtPaWtCQk93"
 
 type StockImageInfo struct {
 	Title  string   `json:"title"`
@@ -160,7 +160,7 @@ func searchStockImageDB(title string) []string {
 }
 
 // We must return a default image if we can not find any matching image
-func SearchImageByTitle(title string) []string {
+func SearchImagesByTitle(title string) []string {
 	images := searchStockImageDB(NormalizeString(title))
 
 	if len(images) == 0 {
